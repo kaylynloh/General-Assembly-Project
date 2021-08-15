@@ -7,8 +7,8 @@ The project consists of the following:
 3. Plotting HDB location and the amenites within approximately 2km on the map based on user's input (block no, town). This helps users to see the amenities near their chosen location. Done using folium and pandas. 
 
 Source : 
-https://data.gov.sg/dataset/school-directory-and-information
-https://data.gov.sg/dataset/hawker-centres
-https://data.gov.sg/dataset/master-plan-2019-rail-station-name-layer
-https://data.gov.sg/dataset/median-resale-prices-for-registered-applications-by-town-and-flat-type
-https://data.gov.sg/dataset/resale-flat-prices
+- https://data.gov.sg/dataset/school-directory-and-information
+- https://data.gov.sg/dataset/hawker-centres
+- https://data.gov.sg/dataset/master-plan-2019-rail-station-name-layer
+- https://data.gov.sg/dataset/median-resale-prices-for-registered-applications-by-town-and-flat-type
+- https://data.gov.sg/dataset/resale-flat-prices
